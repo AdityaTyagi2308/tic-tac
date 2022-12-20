@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TIC-TAC/static/css/main.7e4d4bc3.css",
+    "main.js": "/TIC-TAC/static/js/main.96bc3844.js",
+    "static/media/favicon-96x96.png": "/TIC-TAC/static/media/favicon-96x96.d57756e6092b7363ee91.png",
+    "index.html": "/TIC-TAC/index.html",
+    "main.7e4d4bc3.css.map": "/TIC-TAC/static/css/main.7e4d4bc3.css.map",
+    "main.96bc3844.js.map": "/TIC-TAC/static/js/main.96bc3844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4d4bc3.css",
+    "static/js/main.96bc3844.js"
+  ]
+}
